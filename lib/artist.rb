@@ -1,2 +1,8 @@
 class Artist 
-  attr_accessor :$FILENAME
+  attr_accessor :name 
+  
+  def initialize
+    
+  end 
+  
+end 
